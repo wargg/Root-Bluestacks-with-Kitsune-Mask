@@ -77,7 +77,7 @@ Master Instances:
 
 - In Kitsune Mask, select the Install option under the Magisk field.
 
-- Use the Direct Install into system partition option (not just "Direct Install").
+- Use the "Direct Install (modify /system directly)".
 
 > [!WARNING]
 > If this option is not visible, close and reopen the Kitsune Mask app.
